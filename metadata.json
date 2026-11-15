@@ -1,0 +1,6 @@
+{
+  "name": "Sunshine Boys PG Attendance",
+  "description": "Mobile-first PG hostel attendance app with shareable WhatsApp links, bilingual English and Hindi support, attendance history, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
